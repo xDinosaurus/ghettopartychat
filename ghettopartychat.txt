@@ -9,4 +9,14 @@ ECHO(/w majjus_ [P] $$?);
 	WAIT(1);
 ECHO(/w Dino_Saurus [P] $$?);
 	WAIT(1);
+ECHO(/w micropi [P] $$?);
+	WAIT(1);
+ECHO(/w Songsayer [P] $$?);
+	WAIT(1);
+ECHO(/w Zif [P] $$?);
+	WAIT(1);
+ECHO(/w FuzzyFutureFox [P] $$?);
+	WAIT(1);
+ECHO(/w HeliBladeScraper [P] $$?);
+	WAIT(1);
 }$$
