@@ -1,22 +1,22 @@
 $${
-ECHO(/w xXdinosaurusXx [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w firstvirus92 [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w Brottweiler [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w majjus_ [P] $$?);
+ECHO(/w player_name[P] $$?);
 	WAIT(1);
-ECHO(/w Dino_Saurus [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w micropi [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w Songsayer [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w Zif [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w FuzzyFutureFox [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
-ECHO(/w HeliBladeScraper [P] $$?);
+ECHO(/w player_name [P] $$?);
 	WAIT(1);
 }$$
